@@ -103,7 +103,7 @@ def string_to_dates(year, s):
 
 def main():
 
-    dates = string_to_dates(2017, "TOO  EASY")
+    dates = string_to_dates(2025, "QUIET")
     print(dates)
 
     # Git提交
